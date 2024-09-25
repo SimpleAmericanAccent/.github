@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there 👋
 
 Simple American Accent helps:
 - Brazilians
