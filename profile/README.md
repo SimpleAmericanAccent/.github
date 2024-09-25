@@ -5,7 +5,7 @@ Simple American Accent helps:
 - who want an American accent (or closer to it) and
 - already speak English at an advanced level
 
-This GitHub organization is mainly used for internal development purposes.
+This GitHub organization is used for internal development purposes.
 
 But you can find public-facing resources for Simple American Accent at the following places:
 
