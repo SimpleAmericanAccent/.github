@@ -15,7 +15,7 @@ This GitHub organization is used for internal development purposes, including:
     - Node/Express hosted on Render. Serves the front-end and handles API stuff.
     - Using Airtable as a database for now (considering switching to PostgreSQL).
     - S3 for storing audio and JSON.
-- 📈 I'm also building internal tools for tracking various business metrics.
+- 📈 Internal tools for tracking business metrics.
 
 You can find public-facing resources for Simple American Accent at the following places:
 
