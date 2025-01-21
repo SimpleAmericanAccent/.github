@@ -10,9 +10,9 @@ This GitHub organization is used for internal development purposes, including:
 - 🌱 Private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving it over time. As of 1/21/2025 it's:
   - Frontend:
     - Vanilla JS, HTML, CSS
-    - Updating to React over time.
+    - Gradually updating to React.
   - Backend:
-    - Node/Express hosted on Render.
+    - Node/Express hosted on Render. Serves the front-end and handles API stuff.
     - Using Airtable as a database for now (considering switching to PostgreSQL).
     - S3 for storing audio and JSON.
 - 📈 I'm also building internal tools for tracking various business metrics.
