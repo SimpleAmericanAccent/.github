@@ -28,6 +28,10 @@ This GitHub organization is used for internal development purposes, including:
       - Node/Express hosted on Render. Serves the front-end and handles API stuff.
       - Using Airtable as a database for now (considering switching to PostgreSQL).
       - S3 for storing audio and JSON.
+    - Other:
+      - Auth0 for authentication
+      - Environment variables for API keys etc (I was super proud to finally figure out authentication, authorization, and environment variables!)
+      - Unstructured testing
   - Future plans/possibilities:
     - Frontend:
       - React and React Native
@@ -35,7 +39,9 @@ This GitHub organization is used for internal development purposes, including:
     - Backend:
       - Node/Express (or maybe serverless?)
       - PostgreSQL (I think)
-      - Possibly: Python, machine learning, etc  
+      - Possibly: Python, machine learning, etc
+    - Other:
+      - More rigorous / complete testing and security approaches
 - 📈 Internal tools for tracking business metrics.
 
 You can find public-facing resources for Simple American Accent at the following places:
