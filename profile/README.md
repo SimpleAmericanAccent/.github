@@ -31,7 +31,7 @@ This GitHub organization is used for internal development purposes, including:
     - Other:
       - Auth0 for authentication
       - Environment variables for API keys etc (I was super proud to finally figure out authentication, authorization, and environment variables!)
-      - Unstructured testing
+      - Informal, manual testing
   - Future plans/possibilities:
     - Frontend:
       - React and React Native
