@@ -16,12 +16,12 @@ This GitHub organization is used for internal development purposes, including:
       - Node/Express hosted on Render. Serves the front-end and handles API stuff.
       - Using Airtable as a database for now (considering switching to PostgreSQL).
       - S3 for storing audio and JSON.
-  - Future plans:
+  - Future plans/possibilities:
     - Frontend:
       - React and React Native
       - iOS and Android via Expo
     - Backend:
-      - Node/Express or maybe serverless
+      - Node/Express (or maybe serverless?)
       - PostgreSQL
       - Possibly: Python, machine learning, etc  
 - 📈 Internal tools for tracking business metrics.
