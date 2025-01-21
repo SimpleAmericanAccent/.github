@@ -11,7 +11,7 @@ BUT I think software can make things way more useful (and awesome), so I'm inves
 
 Maybe it's becoming a "tech-enabled service," I guess?
 
-The main way I'm investing in that currently is by learning to build software myself (especially software that my clients actually use), in parallel with running the other aspects of my business.
+The main way I'm investing in that currently is by learning to build software myself (especially software that my clients actually use and find useful), in parallel with running the other aspects of my business.
 
 I think it's an important skillset and even if I hire developers in the future, I want to develop a meaningful skill level for myself.
 
