@@ -42,6 +42,7 @@ This GitHub organization is used for internal development purposes, including:
       - Possibly: Python, machine learning, etc
     - Other:
       - More rigorous / complete testing and security approaches
+      - Learn about containers, scaling, and whatnot
 - 📈 Internal tools for tracking business metrics.
 
 You can find public-facing resources for Simple American Accent at the following places:
