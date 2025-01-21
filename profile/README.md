@@ -19,7 +19,7 @@ This GitHub organization is used for internal development purposes, including:
   - Future plans:
     - Frontend:
       - React and React Native
-      - ioS and Android via Expo Go
+      - iOS and Android via Expo
     - Backend:
       - Node/Express or maybe serverless
       - PostgreSQL
