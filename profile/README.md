@@ -47,4 +47,5 @@ You can find public-facing resources for Simple American Accent at the following
 You can find [my personal GitHub here.](https://github.com/will-rosenberg)
 
 Thanks for stopping by!
+
 Will Rosenberg
