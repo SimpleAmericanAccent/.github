@@ -22,3 +22,5 @@ You can find public-facing resources for Simple American Accent at the following
 - [Instagram - Over 200k followers](https://www.instagram.com/SimpleAmericanAccent)
 - [Application for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw/?utm_source=saa_github)
 - [Website](https://www.SimpleAmericanAccent.com?utm_source=saa_github)
+
+You can find [my personal GitHub here.](https://github.com/will-rosenberg)
