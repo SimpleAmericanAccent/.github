@@ -7,14 +7,23 @@ Simple American Accent helps:
 
 This GitHub organization is used for internal development purposes, including:
 
-- 🌱 Private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving it over time. As of 1/21/2025 it's:
-  - Frontend:
-    - Vanilla JS, HTML, CSS
-    - Gradually updating to React.
-  - Backend:
-    - Node/Express hosted on Render. Serves the front-end and handles API stuff.
-    - Using Airtable as a database for now (considering switching to PostgreSQL).
-    - S3 for storing audio and JSON.
+- 🌱 Private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving it over time.
+  - As of 1/21/2025 it's:
+    - Frontend:
+      - Vanilla JS, HTML, CSS
+      - Gradually updating to React.
+    - Backend:
+      - Node/Express hosted on Render. Serves the front-end and handles API stuff.
+      - Using Airtable as a database for now (considering switching to PostgreSQL).
+      - S3 for storing audio and JSON.
+    - Future plans:
+      - Frontend:
+        - React and React Native
+        - ioS and Android via Expo Go
+      - Backend:
+        - Node/Express or maybe serverless
+        - PostgreSQL
+        - Possibly: Python, machine learning, etc  
 - 📈 Internal tools for tracking business metrics.
 
 You can find public-facing resources for Simple American Accent at the following places:
