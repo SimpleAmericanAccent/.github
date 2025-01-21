@@ -34,7 +34,7 @@ This GitHub organization is used for internal development purposes, including:
       - iOS and Android via Expo
     - Backend:
       - Node/Express (or maybe serverless?)
-      - PostgreSQL
+      - PostgreSQL (I think)
       - Possibly: Python, machine learning, etc  
 - 📈 Internal tools for tracking business metrics.
 
