@@ -7,7 +7,7 @@ Simple American Accent helps:
 
 This GitHub organization is used for internal development purposes, including:
 
-- 🌱 I’m learning React and building a private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving over time. As of 1/21/2025 it's:
+- 🌱 Private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving it over time. As of 1/21/2025 it's:
   - Frontend:
     - Vanilla JS, HTML, CSS
     - Updating to React over time.
