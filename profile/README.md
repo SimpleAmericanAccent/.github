@@ -5,17 +5,10 @@ Simple American Accent helps:
 - who want an American accent (or closer to it) and
 - already speak English at an advanced level
 
-I see my business as primarily a mentorship/coaching business, not a software business.
+Started in 2018. Since then, it's grown from 0 to over 200k followers on Instagram.
 
-BUT I think software can make things way more useful (and awesome), so I'm investing in that.
-
-Maybe it's becoming a "tech-enabled service," I guess?
-
-The main way I'm investing in that currently is by learning to build software myself (especially software that my clients actually use and find useful), in parallel with running the other aspects of my business.
-
-I think it's an important skillset and even if I hire developers in the future, I want to develop a meaningful skill level for myself.
-
-So here we are...
+Since 2024, I'm shifting the business from pure service/mentorship towards a tech-enabled service.
+I'm building a full stack web app to give my clients better accent feedback & training.
 
 This GitHub organization is used for internal development purposes, including:
 
