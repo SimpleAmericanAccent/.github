@@ -27,8 +27,8 @@ This GitHub organization is used for internal development purposes, including:
     - Frontend:
       - Native iOS and Android apps via Expo & React Native
     - Backend:
-      - PostgreSQL (I think)
-      - AI/ML, more rigorous statistics and measurement of accent
+      - AI/ML (but keeping human expert in the loop for important client feedback)
+      - More rigorous statistics and measurement of accent
     - Other:
       - More rigorous / complete testing and security approaches
       - Learn about containers, scaling, and whatnot
