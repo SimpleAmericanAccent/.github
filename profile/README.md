@@ -17,7 +17,7 @@ This GitHub organization is used for internal development purposes, including:
     - Frontend:
       - React, Zustand, shadcn/ui (Tailwind CSS & Radix Primitives)
     - Backend:
-      - Node/Express hosted on Render. Serves the front-end and handles API stuff.
+      - Express/Node hosted on Render. Serves the front-end and handles API stuff.
       - Using Airtable as a database (migrating to PostgreSQL and Prisma).
       - S3 for storing audio and JSON.
     - Other:
