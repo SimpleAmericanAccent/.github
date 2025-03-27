@@ -23,6 +23,7 @@ This GitHub organization is used for internal development purposes, including:
     - Other:
       - Auth0 for authentication
       - Informal, manual testing
+      - 🦆 I talk to my rubber duck, programmer friends, and Copilot (ChatGPT, Claude etc) without replacing my own judgment of the code and hand-coding.
   - Future plans/possibilities:
     - Frontend:
       - Native iOS and Android apps via Expo & React Native
