@@ -13,26 +13,22 @@ I'm building a full stack web app to give my clients better accent feedback & tr
 This GitHub organization is used for internal development purposes, including:
 
 - 🌱 Private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving it over time.
-  - As of 1/21/2025 it's:
+  - As of 3/27/2025 it's:
     - Frontend:
-      - Vanilla JS, HTML, CSS
-      - Gradually updating to React.
+      - React, Zustand, shadcn/ui (Tailwind CSS & Radix Primitives)
     - Backend:
       - Node/Express hosted on Render. Serves the front-end and handles API stuff.
-      - Using Airtable as a database for now (considering switching to PostgreSQL).
+      - Using Airtable as a database (migrating to PostgreSQL and Prisma).
       - S3 for storing audio and JSON.
     - Other:
       - Auth0 for authentication
-      - Environment variables for API keys etc (I was super proud to finally figure out authentication, authorization, and environment variables!)
       - Informal, manual testing
   - Future plans/possibilities:
     - Frontend:
-      - React and React Native
-      - Native iOS and Android apps via Expo
+      - Native iOS and Android apps via Expo & React Native
     - Backend:
-      - Maybe serverless?
       - PostgreSQL (I think)
-      - Possibly: Python, machine learning, etc
+      - AI/ML, more rigorous statistics and measurement of accent
     - Other:
       - More rigorous / complete testing and security approaches
       - Learn about containers, scaling, and whatnot
