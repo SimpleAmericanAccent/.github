@@ -15,7 +15,7 @@ This GitHub organization is used for internal development purposes, including:
 - 🌱 Private app for my clients to access annotated, interactive accent feedback and training resources. They already have access to an MVP and I'm improving it over time.
   - As of 3/27/2025 it's:
     - Frontend:
-      - React, Zustand, shadcn/ui (Tailwind CSS & Radix Primitives)
+      - React, Zustand, shadcn/ui
     - Backend:
       - Express/Node hosted on Render.
       - Using Airtable as a database (migrating to PostgreSQL and Prisma).
