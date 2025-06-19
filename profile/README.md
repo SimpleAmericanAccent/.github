@@ -1,4 +1,4 @@
-## 👋 Welcome to Simple American Accent (Org)
+## 👋 Welcome to Simple American Accent
 
 **Helping Brazilians sound more American since 2018.**
 
@@ -33,8 +33,7 @@ A private app where clients access annotated, interactive feedback and personali
 **As of March 27, 2025:**
 
 - **Frontend**
-  - React + Zustand
-  - shadcn/ui
+  - React, Zustand, shadcn/ui
 - **Backend**
   - Node.js (Express), hosted on Render
   - Airtable → migrating to PostgreSQL (Prisma)
@@ -42,12 +41,13 @@ A private app where clients access annotated, interactive feedback and personali
 - **Other**
   - Auth0 for authentication
   - Manual/informal testing
-  - 🦆 Rubber ducking + Copilot, ChatGPT, dev friends
+  - 🦆 Rubber ducking + Cursor, ChatGPT, dev friends
 
 **Coming Soon:**
 
 - Native mobile apps (React Native via Expo)
-- AI-assisted feedback (human-in-the-loop)
+- AI/ML (but keeping human expert in the loop for important client feedback)
+- More rigorous statistics and measurement of accent
 - More structured testing + deployment
 
 #### 📈 Internal Tools
@@ -62,7 +62,7 @@ We're also building tools for:
 ### 🙌 Thanks for stopping by!
 
 I’m **Will Rosenberg**, founder and full-stack dev behind this work.  
-This org is for internal builds — you can find more at:  
+This org is for internal builds — you can find more about me at:  
 👉 [github.com/will-rosenberg](https://github.com/will-rosenberg)
 
 
