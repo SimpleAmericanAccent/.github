@@ -1,3 +1,72 @@
+## 👋 Welcome to Simple American Accent (Org)
+
+**Helping Brazilians sound more American since 2018.**
+
+---
+
+### 🔗 Quick Links
+
+- 📸 [Instagram — 200k+ followers](https://www.instagram.com/SimpleAmericanAccent)  
+- 📝 [Apply for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw/?utm_source=saa_github)  
+- 🏠 [Website](https://www.simpleamericanaccent.com?utm_source=saa_github)  
+- 🙋‍♂️ [Personal GitHub (Will Rosenberg)](https://github.com/will-rosenberg)
+
+---
+
+### 🌟 Who This Is For
+
+We help:
+- 🇧🇷 **Brazilians**
+- who want to **sound more American**
+- and already speak English **at an advanced level**
+
+---
+
+### 🛠️ What This Org Is For
+
+This GitHub organization powers our **internal development**, including:
+
+#### 🌱 Client Web App (Private MVP)
+
+A private app where clients access annotated, interactive feedback and personalized training tools.
+
+**As of March 27, 2025:**
+
+- **Frontend**
+  - React + Zustand
+  - shadcn/ui
+- **Backend**
+  - Node.js (Express), hosted on Render
+  - Airtable → migrating to PostgreSQL (Prisma)
+  - AWS S3 (audio + JSON)
+- **Other**
+  - Auth0 for authentication
+  - Manual/informal testing
+  - 🦆 Rubber ducking + Copilot, ChatGPT, dev friends
+
+**Coming Soon:**
+
+- Native mobile apps (React Native via Expo)
+- AI-assisted feedback (human-in-the-loop)
+- More structured testing + deployment
+
+#### 📈 Internal Tools
+
+We're also building tools for:
+- Client progress tracking  
+- Funnel + content performance  
+- Business metrics
+
+---
+
+### 🙌 Thanks for stopping by!
+
+I’m **Will Rosenberg**, founder and full-stack dev behind this work.  
+This org is for internal builds — you can find more at:  
+👉 [github.com/will-rosenberg](https://github.com/will-rosenberg)
+
+
+
 ## Hi there 👋
 
 Simple American Accent helps:
