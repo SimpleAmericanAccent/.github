@@ -7,7 +7,7 @@
 ### 🔗 Quick Links
 
 - 📸 [Instagram — 200k+ followers](https://www.instagram.com/SimpleAmericanAccent)  
-- 📝 [Apply for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw/?utm_source=saa_github)  
+- 📝 [Apply for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw-new/?utm_source=saa_github)  
 - 🏠 [Website](https://www.simpleamericanaccent.com?utm_source=saa_github)  
 - 🙋‍♂️ [Personal GitHub (Will Rosenberg)](https://github.com/will-rosenberg)
 
@@ -107,7 +107,7 @@ This GitHub organization is used for internal development purposes, including:
 You can find public-facing resources for Simple American Accent at the following places:
 
 - [Instagram - Over 200k followers](https://www.instagram.com/SimpleAmericanAccent)
-- [Application for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw/?utm_source=saa_github)
+- [Application for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw-new/?utm_source=saa_github)
 - [Website](https://www.SimpleAmericanAccent.com?utm_source=saa_github)
 
 You can find [my personal GitHub here.](https://github.com/will-rosenberg)
