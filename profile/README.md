@@ -17,7 +17,7 @@
 
 We help:
 - 🇧🇷 **Brazilians**
-- who want to **sound more American**
+- who want an American accent (or closer to it)
 - and already speak English **at an advanced level**
 
 ---
