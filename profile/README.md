@@ -7,7 +7,7 @@
 ### 🔗 Quick Links
 
 - 📸 [Instagram — 200k+ followers](https://www.instagram.com/SimpleAmericanAccent)  
-- 📝 [Apply for Accent Mentorship](https://www.simpleamericanaccent.com/mg-mw-new/?utm_source=saa_github)  
+- 📝 [Apply for Accent Mentorship](https://www.simpleamericanaccent.com/mg?utm_source=saa_github)  
 - 🏠 [Website](https://www.simpleamericanaccent.com?utm_source=saa_github)  
 - 🙋‍♂️ [Personal GitHub (Will Rosenberg)](https://github.com/will-rosenberg)
 
