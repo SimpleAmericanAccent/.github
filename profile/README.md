@@ -2,6 +2,8 @@
 
 **Helping Brazilians sound more American since 2018.**
 
+📺 [App/business walkthrough here (5 minute video)](https://youtu.be/ne7TSr-LaXk)
+
 ---
 
 ### 🔗 Quick Links
