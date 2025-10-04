@@ -17,7 +17,7 @@
 
 ### 🌟 Who This Is For
 
-We help:
+I help:
 - 🇧🇷 **Brazilians**
 - who want an American accent (or closer to it)
 - and already speak English **at an advanced level**
@@ -26,7 +26,7 @@ We help:
 
 ### 🛠️ What This Org Is For
 
-This GitHub organization powers our **internal development**, including:
+This GitHub organization powers **internal development**, including:
 
 #### 🌱 Client Web App (Private MVP)
 
