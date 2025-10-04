@@ -2,7 +2,7 @@
 
 **Helping Brazilians sound more American since 2018.**
 
-📺 [App/business walkthrough here (5 minute video)](https://youtu.be/ne7TSr-LaXk)
+📺 [App/business walkthrough here (5 minute video)](https://youtu.be/1I5FPCRFm7o)
 
 ---
 
