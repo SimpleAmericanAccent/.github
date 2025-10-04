@@ -32,18 +32,19 @@ This GitHub organization powers our **internal development**, including:
 
 A private app where clients access annotated, interactive feedback and personalized training tools.
 
-**As of March 27, 2025:**
+**As of October 4, 2025:**
 
 - **Frontend**
-  - React, Zustand, shadcn/ui
+  - React, Zustand, shadcn/ui, Tailwind
 - **Backend**
   - Node.js (Express), hosted on Render
-  - Airtable → migrating to PostgreSQL (Prisma)
-  - AWS S3 (audio + JSON)
+  - PostgreSQL (Prisma), Airtable via API
+  - AWS S3
 - **Other**
   - Auth0 for authentication
   - Manual/informal testing
   - 🦆 Rubber ducking + Cursor, ChatGPT, dev friends
+  - Vite, pnpm monorepo
 
 **Coming Soon:**
 
@@ -54,7 +55,7 @@ A private app where clients access annotated, interactive feedback and personali
 
 #### 📈 Internal Tools
 
-We're also building tools for:
+I'm also building tools for:
 - Client progress tracking  
 - Funnel + content performance  
 - Business metrics
