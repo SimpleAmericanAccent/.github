@@ -20,6 +20,6 @@
 
 ### 🙌 Thanks for stopping by!
 
-I’m **Will Rosenberg**, founder and full-stack dev behind this work.  
+I’m **Will Rosenberg**, founder and full-stack engineer behind this work.  
 You can find more about me at:  
 👉 [github.com/will-rosenberg](https://github.com/will-rosenberg)
