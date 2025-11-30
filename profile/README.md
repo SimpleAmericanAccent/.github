@@ -1,6 +1,6 @@
 ## 👋 Welcome to Simple American Accent
 
-- 2024-Present:   I built and maintain a **full-stack web app** that's in production, used by my accent coaching clients:
+- 2024-Present:   I built and maintain a **full-stack web app** used by my accent coaching clients:
   - <a href="https://github.com/SimpleAmericanAccent/saa"><img src="https://github.com/SimpleAmericanAccent/saa/blob/main/docs/screenshot.png"></a>
   - 👨🏻‍💻 [Source code](https://github.com/SimpleAmericanAccent/saa) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
   - 📺 Repo includes live app demo & demo video
