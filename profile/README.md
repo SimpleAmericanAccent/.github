@@ -1,8 +1,8 @@
 ## 👋 Welcome to Simple American Accent
 
 - 2024-Present:   I built and maintain a **full-stack web app** used by my accent coaching clients:
-  - <a href="https://github.com/SimpleAmericanAccent/saa"><img src="https://saa-website-public-files.s3.us-east-2.amazonaws.com/AA1-2.png"></a>
-  - 👨🏻‍💻 [Source code](https://github.com/SimpleAmericanAccent/saa) - React, Node & Express, Postgres & Prisma, Tailwind, Vite (Update: made closed source again on April 11, 2026)
+  - <a href="https://github.com/SimpleAmericanAccent"><img src="https://saa-website-public-files.s3.us-east-2.amazonaws.com/AA1-2.png"></a>
+  - 👨🏻‍💻 [Source code](https://github.com/SimpleAmericanAccent) - React, Node & Express, Postgres & Prisma, Tailwind, Vite (Update: made closed source again on April 11, 2026)
   - 📺 5-minute walkthrough video available in the repo
 
 - 2018-Present:   Started my own company ([**Simple American Accent**](https://www.instagram.com/SimpleAmericanAccent)) to help Brazilians who want an American accent
